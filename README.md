@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+netsat
 ![384935813-adea6bd5-8f54-486f-b719-c5692c5c99b0](https://github.com/user-attachments/assets/5eb845bf-02b2-4b3c-bf4b-3fe1068b0613)
 
 ipconfig
